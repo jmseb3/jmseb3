@@ -1,11 +1,14 @@
 # 안녕하세요
-- 👋 반갑습니다. 코딩에 관심있는 입문자입니다.  
-[블로그 바로가기](https://blog.naver.com/jmseb3)  
+- 👋 반갑습니다. 코딩에 관심있는 입문자입니다.   
+   
+[티스토리 바로가기](https://wonddak.tistory.com/)  
+[네이버 블로그 바로가기](https://blog.naver.com/jmseb3)  
+
 # Language(사용언어)  
-- Python  
-  > [백준 문제풀이](https://github.com/jmseb3/bakjoon)  
-- Kotlin
-  > [백준 문제풀이](https://github.com/jmseb3/backjoon_kt)  
+- [백준 Python 문제풀이](https://github.com/jmseb3/bakjoon)  
+- [백준 Kotlin 문제풀이](https://github.com/jmseb3/backjoon_kt)  
+
+
 # Projects(프로젝트)
 * <img src="https://user-images.githubusercontent.com/63912638/131365927-20f11f41-9e32-4202-ad12-cc0f5ec04f07.png" width="100" height="100"/> [시원한 수학박사](https://github.com/jmseb3/app_watermelon)  
  [2020 년도 제작] 고등학생을 위한 수학공부 어플
