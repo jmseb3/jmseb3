@@ -1,7 +1,7 @@
 # 안녕하세요
 - 👋 반갑습니다. 코딩에 관심있는 입문자입니다.   
    
-[티스토리 바로가기](https://wonddak.tistory.com/)  
+[Velog 바로가기](https://velog.io/@jmseb3)  
 [네이버 블로그 바로가기](https://blog.naver.com/jmseb3)  
 
 # Language(사용언어)  
