@@ -2,7 +2,7 @@
 - 👋 반갑습니다. 안드로이드 신입 개발자입니다.
    
 [Velog 바로가기](https://velog.io/@jmseb3)  
-[네이버 블로그 바로가기](https://blog.naver.com/jmseb3)  
+~~[네이버 블로그 바로가기](https://blog.naver.com/jmseb3)~~  
 
 # Language(사용언어)  
 - [백준 Python 문제풀이](https://github.com/jmseb3/bakjoon)  
