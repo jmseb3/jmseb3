@@ -1,11 +1,7 @@
 # 안녕하세요
-- 👋 반갑습니다. 안드로이드 신입 개발자입니다.
+- 👋 반갑습니다. 안드로이드 개발자 원딱입니다.
    
-[Velog 바로가기](https://velog.io/@jmseb3)  
-~~[네이버 블로그 바로가기](https://blog.naver.com/jmseb3)~~  
-
-# Language(사용언어)  
-- [백준 Python 문제풀이](https://github.com/jmseb3/bakjoon)  
+- [Velog 바로가기](https://velog.io/@jmseb3)   
 - [백준 Kotlin 문제풀이](https://github.com/jmseb3/backjoon_kt)  
 
 # Projects(프로젝트)
@@ -20,8 +16,8 @@
 
 # Library(라이브러리)
 * [SwitchView-Compose](https://github.com/jmseb3/SwitchView-Compose)
-  Compose Custom Switch
+  Compose Custom Switch(Only Android Compose)
 
 # Plugin(플러그인)
-* [Font Helepr]([https://github.com/jmseb3/SwitchView-Compose](https://github.com/jmseb3/Android_Font_Helper_Plugin))
-  For Android Compose , Font Helper
+* [Font Helepr](https://github.com/jmseb3/Android_Font_Helper_Plugin)
+  For Android Compose , Font Helper(Android Studio)
