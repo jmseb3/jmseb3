@@ -13,7 +13,7 @@
   [2021 년도 제작] 코인 또는 주식을 계산하고,실시간시세를 볼수있는 어플
 *  <img src="https://user-images.githubusercontent.com/63912638/148641395-0eccacd6-652b-40c7-94c6-da13b835017f.png" width="100" height="100"/>[보드게임 매니저](https://github.com/jmseb3/app_boardgame2)   
   [2021 년도 제작] 보드게임 점수판 및 간단한 추가기능을 사용할수 있는 어플
-*  <img src="https://play-lh.googleusercontent.com/kXYsevYeyS3X_oT41WNR5-1nq9S2DcbS_DpXB4agzeYdsNLyH65N94GlaD_B2V9_670v=w240-h480-rw" width="100" height="100"/>[LoaCell]([https://github.com/jmseb3/app_boardgame2](https://play.google.com/store/apps/details?id=com.wonddak.loacell.android&hl=ko-KR))   
+*  <img src="https://play-lh.googleusercontent.com/kXYsevYeyS3X_oT41WNR5-1nq9S2DcbS_DpXB4agzeYdsNLyH65N94GlaD_B2V9_670v=w240-h480-rw" width="100" height="100"/>[LoaCell](https://play.google.com/store/apps/details?id=com.wonddak.loacell.android&hl=ko-KR)   
   [2023 년도 제작] 로스트아크 게임의 파티 관리를 도와주는 어플
 
 # Library(라이브러리)
