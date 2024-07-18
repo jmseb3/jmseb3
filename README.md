@@ -31,6 +31,9 @@
 * [SwiftUi-SnackBar](https://github.com/jmseb3/SwiftUI-Snackbar)
   snacbar(IOS - Swiftui)
 
+* [SwipeBack](https://github.com/jmseb3/swipeBack)
+  swipeBack Action For Swiftui
+
   
 
 # Plugin(플러그인)
