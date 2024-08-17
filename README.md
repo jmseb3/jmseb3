@@ -1,8 +1,8 @@
 # 안녕하세요
 - 👋 반갑습니다. 안드로이드 개발자 원딱입니다.
-   
+  
+포트폴리오는 여기 (https://jmseb3.github.io/portfolio/) 에서 확인가능합니다!
 - [Velog 바로가기](https://velog.io/@jmseb3)   
-- [백준 Kotlin 문제풀이](https://github.com/jmseb3/backjoon_kt)  
 
 # Projects(프로젝트)
 * <img src="https://user-images.githubusercontent.com/63912638/131365927-20f11f41-9e32-4202-ad12-cc0f5ec04f07.png" width="100" height="100"/> [시원한 수학박사](https://github.com/jmseb3/app_watermelon)  
