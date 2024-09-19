@@ -15,6 +15,8 @@
   
 * <img src="https://user-images.githubusercontent.com/63912638/131365930-9992bed4-6893-412a-a600-08b13e78b4bd.png" width="100" height="100"/> [코인 평단 계산기](https://github.com/jmseb3/app_coin)   
   [2021 년도 제작] 코인 또는 주식을 계산하고,실시간시세를 볼수있는 어플
+  [2023 년도] Compose 로 마이그레이션  
+
 *  <img src="https://user-images.githubusercontent.com/63912638/148641395-0eccacd6-652b-40c7-94c6-da13b835017f.png" width="100" height="100"/>~~[보드게임 매니저](https://github.com/jmseb3/app_boardgame2)~~  
   ~~[2021 년도 제작] 보드게임 점수판 및 간단한 추가기능을 사용할수 있는 어플~~  
    [2024 년도] CMP로 신규 기획중  
@@ -26,13 +28,13 @@
   Compose Custom Switch(Only Android Compose)
 
 * [SimpleJWTParser](https://github.com/jmseb3/KMM-Simple-JWT-Parser)
-  parse payload part of jwtToken (Android and ios (KMM))
+  parse payload part of jwtToken (Android and ios (KMP))
 
 * [SwiftUi-SnackBar](https://github.com/jmseb3/SwiftUI-Snackbar)
-  snacbar(IOS - Swiftui)
+  snacbar(IOS - SwiftUI)
 
 * [SwipeBack](https://github.com/jmseb3/swipeBack)
-  swipeBack Action For Swiftui
+  swipeBack Action For SwiftUI
 
   
 
