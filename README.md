@@ -11,7 +11,7 @@
 * <img src="https://user-images.githubusercontent.com/63912638/131365925-6aa5fc21-78bd-46aa-ba2c-7587ee623806.png" width="100" height="100"/> [MT 매니저](https://github.com/jmseb3/app_mt_manager)  
   [2021 년도 제작] 여행계획을 세울수 있는 플래너 어플  
   [2023 년도] Compose 로 마이그레이션  
-  [2024 년도] Compose Multiplatform 마이그레이션 진행 중  
+  [2024 년도] Compose Multiplatform 마이그레이션
   
 * <img src="https://user-images.githubusercontent.com/63912638/131365930-9992bed4-6893-412a-a600-08b13e78b4bd.png" width="100" height="100"/> [코인 평단 계산기](https://github.com/jmseb3/app_coin)   
   [2021 년도 제작] 코인 또는 주식을 계산하고,실시간시세를 볼수있는 어플
