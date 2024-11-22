@@ -29,5 +29,3 @@
 | 플러그인 | 설명 | 플랫폼 |
 |:--------:|:-----|:------:|
 | [Font Helepr](https://github.com/jmseb3/Android_Font_Helper_Plugin) | Android Compose를 위한 폰트 헬퍼 | Android Studio |
-
-이 표들은 원딱님의 포트폴리오를 간결하고 시각적으로 보기 좋게 정리한 것입니다. 프로젝트 섹션에서는 각 앱의 아이콘도 포함하여 시각적 효과를 높였습니다.
