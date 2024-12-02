@@ -19,8 +19,9 @@
 | 라이브러리 | 설명 | 플랫폼 |
 |:----------:|:-----|:------:|
 | [Hellogin](https://github.com/jmseb3/helLogin)|Compose multiplatfom auth libray | Android/iOS|
-| [SwitchView-Compose](https://github.com/jmseb3/SwitchView-Compose) | Compose Custom Switch | Android Compose |
-| [SimpleJWTParser](https://github.com/jmseb3/KMM-Simple-JWT-Parser) | parse payload part of jwtToken | Android 및 iOS (KMP) |
+| [Captureable](https://github.com/jmseb3/Capturable)| Compose multiplatfom capture libray |Android/iOS/js/wasm/jvm|
+| [SwitchView-Compose](https://github.com/jmseb3/SwitchView-Compose) | Compose Custom Switch | Android(Compose) |
+| [SimpleJWTParser](https://github.com/jmseb3/KMM-Simple-JWT-Parser) | parse payload part of jwtToken | Android/iOS|
 | [SwiftUi-SnackBar](https://github.com/jmseb3/SwiftUI-Snackbar) | snackbar | iOS (SwiftUI) |
 | [SwipeBack](https://github.com/jmseb3/swipeBack) | swipeBack Action For SwiftUI | iOS (SwiftUI) |
 
