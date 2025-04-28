@@ -2,7 +2,15 @@
 - 👋 반갑습니다. 안드로이드 개발자 원딱입니다.
   
 포트폴리오는 여기 (https://jmseb3.github.io/portfolio/) 에서 확인가능합니다! (safari는 지원하지 않습니다..)
-- [Velog 바로가기](https://velog.io/@jmseb3)   
+- [Velog 바로가기](https://velog.io/@jmseb3)
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jmseb3&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/jmseb3?pet-id=704492549047188317"
+    width="600"
+    height="120"
+  />
+</a>
   
 ## 프로젝트
 
