@@ -16,8 +16,9 @@
 
 | 프로젝트 | 설명 | 개발 연도 | 비고 |
 |:--------:|:-----|:---------:|:-----|
-| Boas| 보드게임 점수 어플 | 2025 | 제작중(CMP) |
-| <img src="https://play-lh.googleusercontent.com/kXYsevYeyS3X_oT41WNR5-1nq9S2DcbS_DpXB4agzeYdsNLyH65N94GlaD_B2V9_670v=w240-h480-rw" width="100" height="100"/>[LoaCell - AOS](https://play.google.com/store/apps/details?id=com.wonddak.loacell.android&hl=ko-KR) / [LoaCell - IOS](https://apps.apple.com/app/id6475280029)  | 로스트아크 게임의 파티 관리를 도와주는 어플 | 2023 | AOS 및 IOS 버전 출시 |
+|<img src="https://play-lh.googleusercontent.com/9OGmx05m2LbxTHQ_vqeYpIzO1e7hQO16rIQ8Q4_ZW0vNlq-mN6_dvPEdwmBY1A0ZasYKA-ydYCyb0cQuLES7ybI=w240-h480-rw" width="100" height="100"/> [Moo!ments](https://play.google.com/store/apps/details?id=io.project.mooment&hl=en&pli=1)| 소확행 기록 앱 | 2025 | Android |
+| Boas| 보드게임 점수 어플 | 2025 | (CMP) |
+| <img src="https://play-lh.googleusercontent.com/kXYsevYeyS3X_oT41WNR5-1nq9S2DcbS_DpXB4agzeYdsNLyH65N94GlaD_B2V9_670v=w240-h480-rw" width="100" height="100"/>[LoaCell - AOS](https://play.google.com/store/apps/details?id=com.wonddak.loacell.android&hl=ko-KR) / [LoaCell - IOS](https://apps.apple.com/app/id6475280029)  | 로스트아크 게임의 파티 관리를 도와주는 어플 | 2023 | Android 및 IOS 버전 출시 |
 | <img src="https://user-images.githubusercontent.com/63912638/148641395-0eccacd6-652b-40c7-94c6-da13b835017f.png" width="100" height="100"/>~~[보드게임 매니저](https://github.com/jmseb3/app_boardgame2)~~   | 보드게임 점수판 및 간단한 추가기능을 사용할 수 있는 어플 | 2021 | 2025: CMP로 신규 기획중 |
 | <img src="https://user-images.githubusercontent.com/63912638/131365930-9992bed4-6893-412a-a600-08b13e78b4bd.png" width="100" height="100"/> [코인 평단 계산기](https://github.com/jmseb3/app_coin)   | 코인 또는 주식을 계산하고, 실시간 시세를 볼 수 있는 어플 | 2021 | 2023: Compose 마이그레이션 |
 | <img src="https://user-images.githubusercontent.com/63912638/131365925-6aa5fc21-78bd-46aa-ba2c-7587ee623806.png" width="100" height="100"/> [MT 매니저](https://github.com/jmseb3/app_mt_manager)   | 여행계획을 세울 수 있는 플래너 어플 | 2021 | 2023: Compose 마이그레이션<br>2024: Compose Multiplatform 마이그레이션  |
